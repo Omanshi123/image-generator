@@ -1,4 +1,4 @@
-const apiKey = "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";
+const apiKey = "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";
 
 const maxImages = 4; // Number of images to generate for each prompt
 let selectedImageNumber = null;
